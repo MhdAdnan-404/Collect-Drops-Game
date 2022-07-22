@@ -6,5 +6,6 @@ The course that i took was more focused on making applications and commerical ap
 
 
 
-https://user-images.githubusercontent.com/109319994/180577191-8413409d-90e3-4274-9671-fd9247ae0eb4.mov
+
+https://user-images.githubusercontent.com/109319994/180577266-9a28cdf2-4ece-44d1-8f48-52f9b718bbbf.mov
 
