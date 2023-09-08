@@ -28,6 +28,10 @@
 
 
 
+
+
+
+
 <h4>
   <p>
      the face mask detection system utilizes IoT devices equipped with cameras and sensors to monitor and enforce mask-wearing policies in various industries, providing real-time data and alerts through a cloud-based server to ensure compliance.
@@ -40,9 +44,7 @@
 ## Built With
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift" />
-  </a>
+  https://github.com/404dn/Collect-Drops-Game/assets/109319994/976bf125-54cf-405f-887d-3571bdcbd7ea
 </p>
 
 <h2 align="left"> The Software </h2>
