@@ -32,6 +32,13 @@
   </a>
 </p>
 
+----
+
+
+
+https://github.com/404dn/Collect-Drops-Game/assets/109319994/46cacb79-cba4-455c-bf8e-c5319729ae3d
+
+
 ## License
 
 See `LICENSE.md` for more information.
