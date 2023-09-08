@@ -43,18 +43,13 @@
 
 ## Built With
 
-<p align="center">
+
   https://github.com/404dn/Collect-Drops-Game/assets/109319994/976bf125-54cf-405f-887d-3571bdcbd7ea
-</p>
+
 
 <h2 align="left"> The Software </h2>
 <p>The software side of the system encompasses an iOS application for user interaction to override the lock, a Python program with machine learning capabilities for real-time mask detection in camera feeds, and cloud-based data management to facilitate automatic alerts to the ios application as well as storing the pictures .</p>
-<p align="center">
 
-<img src="https://github.com/404dn/FaceMaskDoorLockDetectionSystem/blob/master/Pictuers/5.PNG" alt="drawing" width="200"/>
-<img src="https://github.com/404dn/FaceMaskDoorLockDetectionSystem/blob/master/Pictuers/3.PNG" alt="drawing" width="200"/>  
-<img src="https://github.com/404dn/FaceMaskDoorLockDetectionSystem/blob/master/Pictuers/2.PNG" alt="drawing" width="200"/>  
-</p>
 
 
 
